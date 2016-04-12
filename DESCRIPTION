@@ -1,0 +1,11 @@
+Package: TopFeatures
+Type: Package
+Title: Building model using top 10 features
+Version: 1.0
+Date: 2016-04-11
+Author: Todor
+Maintainer: Todor T <todor@berkeley.com>
+Description: Features function
+License: GPL
+LazyData: TRUE
+RoxygenNote: 5.0.1
